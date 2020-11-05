@@ -1,6 +1,6 @@
 name: "mlpf"
 platform: "tensorflow_graphdef"
-max_batch_size: 10 
+max_batch_size: 0 
 input [
   {
     name: "x"
